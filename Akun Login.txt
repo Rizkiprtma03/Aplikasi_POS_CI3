@@ -1,0 +1,10 @@
+User Admin
+ username	: admin
+ password	: admin
+
+User Pegawai
+ username	: wahyu123
+ password	: wahyu123
+
+ username	: Rizkip
+ password	: rizki123
